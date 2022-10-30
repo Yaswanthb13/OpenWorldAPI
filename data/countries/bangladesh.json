@@ -81,7 +81,7 @@
             },
             {
                 "name":"Chittagong Division",
-                "capital":"Chittagong Division",
+                "capital":"Chittagong",
                 "districts":[
                     {
                         "name":"Bandarban",
@@ -229,7 +229,7 @@
             },
             {
                 "name":"Dhaka Division",
-                "capital":"Dhaka Division",
+                "capital":"Dhaka",
                 "districts":[
                     {
                         "name":"Dhaka",
